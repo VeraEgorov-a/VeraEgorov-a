@@ -1,10 +1,10 @@
 ### Vera Egorova
 
-I'm a Associate Professor in the Department of Applied Mathematics and Computer Science at the **Universidad de Cantabria** since 2018. I earned my Ph.D. in Mathematics from the **Universitat Politècnica de València** in 2016.
+I'm a Associate Professor in the Department of Applied Mathematics and Computer Science at the **Universidad de Cantabria**. 
 
 **Research Interests:**
-- Numerical Methods for Free Boundary PDE Problems (e.g., option pricing, population models, wildfire propagation)
-- Efficient Algorithms for Special Functions (e.g., non-central beta distribution function, incomplete beta function)
+- Numerical methods for free-boundary PDE problems (e.g., option pricing, population models, wildfire propagation)
+- Computation of special functions 
 
 **Teaching:**
 
